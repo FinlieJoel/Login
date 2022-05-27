@@ -1,3 +1,0 @@
-C:/Projects/Login/build/CMakeFiles/BasicClassAndObject.dir
-C:/Projects/Login/build/CMakeFiles/edit_cache.dir
-C:/Projects/Login/build/CMakeFiles/rebuild_cache.dir
